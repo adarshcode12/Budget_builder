@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Build_Budget</string>
+    <string-array name="items">
+        <item>Select Item</item>
+        <item>TMP</item>
+        <item>HOD</item>
+        <item>Nescafe</item>
+        <item>Tuck Shop</item>
+        <item>Apno Gao</item>
+        <item>Others</item>
+    </string-array>
+</resources>
